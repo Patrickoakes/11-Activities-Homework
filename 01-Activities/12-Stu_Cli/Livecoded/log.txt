@@ -1,0 +1,116 @@
+Show: The Andy Griffith Show
+Genre(s): Comedy
+Rating: 8.8
+Network: CBS
+Summary: <p>Down-home humor and an endearing cast of characters helped to make <b>The Andy Griffith Show</b> one of the most beloved comedies in the history of television. Introduced as a spinoff from The Danny Thomas Show in 1960, The Andy Griffith Show ran for eight seasons in prime time. Widower Andy Taylor divides his time between raising his young son, Opie, and his job as sheriff (and Justice of the Peace) of the sleepy North Carolina town, Mayberry. Andy and Opie live with Andy's Aunt Bee, who serves as a surrogate mother to both father and son. Andy's nervous cousin, Barney Fife, is his deputy sheriff whose utter incompetence is tolerated because Mayberry is virtually crime-free.</p>
+-------------------------------------------------
+Show: The Andy Griffith Show
+Genre(s): Comedy
+Rating: 8.8
+Network: CBS
+Summary: <p>Down-home humor and an endearing cast of characters helped to make <b>The Andy Griffith Show</b> one of the most beloved comedies in the history of television. Introduced as a spinoff from The Danny Thomas Show in 1960, The Andy Griffith Show ran for eight seasons in prime time. Widower Andy Taylor divides his time between raising his young son, Opie, and his job as sheriff (and Justice of the Peace) of the sleepy North Carolina town, Mayberry. Andy and Opie live with Andy's Aunt Bee, who serves as a surrogate mother to both father and son. Andy's nervous cousin, Barney Fife, is his deputy sheriff whose utter incompetence is tolerated because Mayberry is virtually crime-free.</p>
+-------------------------------------------------
+Name: Andy Griffith
+Birthday: 1926-06-01
+Score: 67.36442
+Country: United States
+-------------------------------------------------
+Name: Will Burke
+Birthday: null
+Score: 30.456163
+Country: Not Found
+-------------------------------------------------
+Name: Will Green
+Birthday: null
+Score: 30.456163
+Country: United States
+-------------------------------------------------
+Name: Will Rogers
+Birthday: null
+Score: 30.456163
+Country: Not Found
+-------------------------------------------------
+Name: Will Ferrell
+Birthday: 1967-07-16
+Score: 30.456163
+Country: United States
+-------------------------------------------------
+Name: Will Arnett
+Birthday: 1970-05-04
+Score: 30.456163
+Country: Canada
+-------------------------------------------------
+Name: Will Swenson
+Birthday: 1973-10-26
+Score: 30.456163
+Country: United States
+-------------------------------------------------
+Name: Will Potter
+Birthday: null
+Score: 30.456163
+Country: Not Found
+-------------------------------------------------
+Name: Will Kemp
+Birthday: 1977-06-29
+Score: 30.456163
+Country: United Kingdom
+-------------------------------------------------
+Name: Will Zahrn
+Birthday: null
+Score: 30.456163
+Country: Not Found
+-------------------------------------------------
+Name: Will Seltzer
+Birthday: null
+Score: 30.456163
+Country: Not Found
+-------------------------------------------------
+Name: John
+Birthday: Not Found
+Score: 27.857521
+Country: Thailand
+-------------------------------------------------
+Name: John Casino
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Fawcett
+Birthday: 1968-03-05
+Score: 20.141943
+Country: Canada
+-------------------------------------------------
+Name: John Behring
+Birthday: Not Found
+Score: 20.141943
+Country: United States
+-------------------------------------------------
+Name: Artin John
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Bernecker
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Neisler
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Knox
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Hainsworth
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
+-------------------------------------------------
+Name: John Treleaven
+Birthday: Not Found
+Score: 20.141943
+Country: Not Found
